@@ -1,0 +1,10 @@
+C:\Users\Laptop Market\source\repos\Photo_Viewer\Photo_Viewer\bin\Debug\Photo_Viewer.exe.config
+C:\Users\Laptop Market\source\repos\Photo_Viewer\Photo_Viewer\bin\Debug\Photo_Viewer.exe
+C:\Users\Laptop Market\source\repos\Photo_Viewer\Photo_Viewer\bin\Debug\Photo_Viewer.pdb
+C:\Users\Laptop Market\source\repos\Photo_Viewer\Photo_Viewer\obj\Debug\Photo_Viewer.csprojAssemblyReference.cache
+C:\Users\Laptop Market\source\repos\Photo_Viewer\Photo_Viewer\obj\Debug\Photo_Viewer.Form1.resources
+C:\Users\Laptop Market\source\repos\Photo_Viewer\Photo_Viewer\obj\Debug\Photo_Viewer.Properties.Resources.resources
+C:\Users\Laptop Market\source\repos\Photo_Viewer\Photo_Viewer\obj\Debug\Photo_Viewer.csproj.GenerateResource.cache
+C:\Users\Laptop Market\source\repos\Photo_Viewer\Photo_Viewer\obj\Debug\Photo_Viewer.csproj.CoreCompileInputs.cache
+C:\Users\Laptop Market\source\repos\Photo_Viewer\Photo_Viewer\obj\Debug\Photo_Viewer.exe
+C:\Users\Laptop Market\source\repos\Photo_Viewer\Photo_Viewer\obj\Debug\Photo_Viewer.pdb
